@@ -1,5 +1,11 @@
 # Conduit
 
+[![CI](https://github.com/Jamie-233/conduit/actions/workflows/ci.yml/badge.svg)](https://github.com/Jamie-233/conduit/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white)](package.json)
+[![Vue 3](https://img.shields.io/badge/Vue-3-4FC08D.svg?logo=vuedotjs&logoColor=white)](package.json)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-online-blue.svg)](https://jamie-233.github.io/conduit/)
+
 **A low-code workflow builder that runs entirely in the browser.** Wire typed nodes together on a canvas, get the graph validated as you build, and run it with parallel, cancellable, branch-aware execution — then inspect every node's inputs, outputs and logs.
 
 **Live demo:** https://jamie-233.github.io/conduit/
